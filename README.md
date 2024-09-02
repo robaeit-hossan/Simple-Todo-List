@@ -10,6 +10,20 @@ This is a basic Todo List application that allows users to manage their daily ta
   - Delete Tasks: Remove tasks once they’re done or no longer needed.
 ## Installation
   1. Clone the repository:
+     
    ```bash
-   git clone https://github.com/your-username/simple-todo-list.git
+       https://github.com/robaeit-hossan/Simple-Todo-List.git
+```
+  2. Navigate to the project directory:
+
+     ```bash
+       cd simple-todo-list
+     ```
+   3. Open index.html in your browser.
+      
+## Usage
+ - Adding Tasks: Enter a task in the input field and press "Add" to include it in your list.
+ - Completing Tasks: Click on the checkbox next to a task to mark it as done.
+ - Deleting Tasks: Click the delete button to remove a task from the list.
+   
 
